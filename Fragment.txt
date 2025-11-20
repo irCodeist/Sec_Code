@@ -79,7 +79,7 @@
             "port": 443,
             "users": [
               {
-                "id": "41f25c39-6e94-4ef8-8f0b-5f97af6b20d9",
+                "id": "8ad5ea1a-c5fa-4e1f-89eb-0b3a8114d0d2",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -94,7 +94,7 @@
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "familypersonalferagment1403.hocw.ir",
+          "serverName": "fiferagbcde25saiporet17gdsa.hocw.ir",
           "alpn": [
             "h2",
             "http/1.1"
@@ -103,9 +103,9 @@
           "show": false
         },
         "wsSettings": {
-          "path": "/FAMILY",
+          "path": "/HILIOS",
           "headers": {
-            "Host": "familypersonalferagment1403.hocw.ir",
+            "Host": "fiferagbcde25saiporet17gdsa.hocw.ir",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
           }
         },
@@ -197,4 +197,5 @@
       }
     ]
   }
+
 }
