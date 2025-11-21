@@ -75,7 +75,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "1-1-1-1-1.googleecosystem.com",
+            "address": "1-1-1-1.googleecosystem.com",
             "port": 443,
             "users": [
               {
@@ -99,7 +99,7 @@
             "h2",
             "http/1.1"
           ],
-          "fingerprint": "firefox",
+          "fingerprint": "chrome",
           "show": false
         },
         "wsSettings": {
@@ -116,7 +116,7 @@
         }
       },
       "mux": {
-        "enabled": true,
+        "enabled": false,
         "concurrency": 8,
         "xudpConcurrency": 8,
         "xudpProxyUDP443": "reject"
@@ -129,7 +129,7 @@
         "domainStrategy": "AsIs",
         "fragment": {
           "packets": "1-1",
-          "length": "4-8",
+          "length": "12-27",
           "interval": "3-6"
         }
       },
@@ -199,6 +199,7 @@
   }
 
 }
+
 
 
 
